@@ -1,10 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bisobsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Bisobsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 29 Apr 2024 16:24:01 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 29 Apr 2024 16:23:58 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[16April 2024]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">www.github.com</a>]]></description><link>Daily Diary/16April 2024.html</link><guid isPermaLink="false">Daily Diary/16April 2024.md</guid><pubDate>Thu, 18 Apr 2024 20:53:58 GMT</pubDate></item><item><title><![CDATA[Question 1:]]></title><description><![CDATA[ 
- <br><br>A continuous Random Vector  has a joint probability density function given by<br>
-if 0&lt; y &lt; 1 and x &gt; y.<br><br>Are X and Y independent? Please Justify your answer.<br><br>Calculate the conditional probability density functions of X given Y and Y given X.<br><br><br>To determine if  or  are independent, we need to check if the joint probability density function  can be expressed as the product of the marginal probability density functions  and  .<br>Let's calculate the marginal probability density functions:<br>After performing the integrations, we find:<br>
-Now if  and  are independent, then  However in this case,<br>
-indicating that  and  are not independent.<br><br>To calculate the conditional probability density functions, we'll use the formula:<br>
-Now let's calculate ]]></description><link>Sem 2/Probability Finals 2023.html</link><guid isPermaLink="false">Sem 2/Probability Finals 2023.md</guid><pubDate>Sun, 28 Apr 2024 15:14:59 GMT</pubDate></item><item><title><![CDATA[Stats]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bisobsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Bisobsidian</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 29 Apr 2024 17:06:18 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 29 Apr 2024 17:06:16 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Syllabus per week]]></title><description><![CDATA[ 
  <br>Week 5<br>
 Method of moments, Maximum Likelihood Estimate<br>Week 8<br>
 Empirical distribution, sample variance, sample proportion, sampling observations<br>Week 9<br>
@@ -26,88 +20,18 @@ Central limit theorem<br>Week 11<br>
 Testing of Hypothesis<br>Week 11A<br>
 Test for Sample mean when sigma is known<br>
 Chi square - Goodness of fit test<br>
-Chi square - Test of independence]]></description><link>Sem 2/Stats.html</link><guid isPermaLink="false">Sem 2/Stats.md</guid><pubDate>Tue, 23 Apr 2024 20:38:05 GMT</pubDate></item><item><title><![CDATA[What is this]]></title><description><![CDATA[ 
- <br><br>This is a lecture ]]></description><link>Sem 3/Analysis of Several Variables/Lecture 1.html</link><guid isPermaLink="false">Sem 3/Analysis of Several Variables/Lecture 1.md</guid><pubDate>Sun, 28 Apr 2024 17:54:35 GMT</pubDate></item><item><title><![CDATA[what is this going on???]]></title><description><![CDATA[ 
- <br>]]></description><link>Sem 3/Analysis of Several Variables/Lecture 2.html</link><guid isPermaLink="false">Sem 3/Analysis of Several Variables/Lecture 2.md</guid><pubDate>Sun, 28 Apr 2024 17:54:49 GMT</pubDate></item><item><title><![CDATA[Heading 1]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax" rel="noopener" class="external-link" href="https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax" target="_blank">Wiki</a><br>First to Make Paragraphs<br>
-Use # for heading 1. ## for heading 2<br><br><br><br><br><br>This is a sample Paragraph.<br><br>
-<br>
-
-Use ** or __<br>
-Bold Text Bold Text
-
-<br>
-
-Use * or _<br>
-Italic Text Italic Text
-
-<br>
-
-Use ~~<br>
-Strikethrough Text
-
-<br>
-
-Use ==<br>
-Hello
-
-<br>
-
- Use ** and _<br>
-Hello
-
-<br>
-
-Use *** or ___<br>
-Hello 
-
-<br><img alt="Dark Academia" src="https://i.pinimg.com/736x/2f/78/f0/2f78f04c9409ba967f4c65b79634f66b.jpg" referrerpolicy="no-referrer" style="width: 550px; max-width: 100%;"><br><br>Use &gt; before a text<br>
-Here is a really good quote by someone. XYZ logic you are seeing, but not getting anything... HEHE
-<br>- Sarvesh<br><br>
-<br>Good
-<br>bad
-<br>is always there
-<br>dont worry
-<br>
-<br>complete task
-<br>incomplete task
-<br>task
-<br>int main {
-	x = x+1;
-}
-Copy<br>1 Footnote<br>
-2 footnote 2<br>
-3 note number 3<br>sarvesh is good. <a href="about:blank#fn-1-87bef833c3a16fde" class="footnote-link" target="_self" rel="noopener">[1]</a><br>this is an <br><br><br>
-<br> - sigma<br>
- - Sigma<br>
- - pi<br>
- - Pi<br>
- - alpha<br>
- - beta<br>
- - omega<br>
- - Omega<br>
- - phi<br>
- - Phi<br><br>
-<br>
-<br>
-<br>
-<br>
-$ \documentclass{article}<br>
-\begin{document}<br>
-First document. This is a simple example, with no<br>
-extra parameters or packages included.<br>
-\end{document}$<br><br><br><br>
-<br>
-<br>
-<br><br>here is the equation for Binomial Theorem<br><br>Here are some formulas that i am practicing how to type<br><br><br><br><br>
-<br>Shrajal edits sigma<br>
-<br>
-<br>
-This is an inline footnote.
-<a href="about:blank#fnref-1-87bef833c3a16fde" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
-
-]]></description><link>Sample file.html</link><guid isPermaLink="false">Sample file.md</guid><pubDate>Sun, 28 Apr 2024 18:00:22 GMT</pubDate><enclosure url="https://i.pinimg.com/736x/2f/78/f0/2f78f04c9409ba967f4c65b79634f66b.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="https://i.pinimg.com/736x/2f/78/f0/2f78f04c9409ba967f4c65b79634f66b.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Notes of Semester 3, B.Math 2023-2026 Batch at ISI Bangalore]]></title><description><![CDATA[ 
- <br><br>Notes of B.Math batch , Semester 3rd. At none other than ISI Bangalore.<br>]]></description><link>WELCOME.html</link><guid isPermaLink="false">WELCOME.md</guid><pubDate>Mon, 29 Apr 2024 16:23:49 GMT</pubDate></item><item><title><![CDATA[Drawing 2024-04-27 01.47.35]]></title><description><![CDATA[ 
+Chi square - Test of independence]]></description><link>Sem 2/Introduction to Statistics and Computation with Data/Syllabus per week.html</link><guid isPermaLink="false">Sem 2/Introduction to Statistics and Computation with Data/Syllabus per week.md</guid><pubDate>Tue, 23 Apr 2024 20:38:05 GMT</pubDate></item><item><title><![CDATA[Determinant]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Let  be a Vector Space on <br>
+ be a Linear Transformation<br>
+Then  is said to be a Linear Operator on <br>
+Let  be a basis of . Then matrix of  w.r.t.  makes sense.<br><br>Let  be a Linear Operator on . Let  be its matrix w.r.t. . (i.e. )<br>
+If  is another Basis]]></description><link>Sem 2/Linear Algebra II/1. Lecture Notes/1. Before Midsem LA2.html</link><guid isPermaLink="false">Sem 2/Linear Algebra II/1. Lecture Notes/1. Before Midsem LA2.md</guid><pubDate>Mon, 29 Apr 2024 17:04:04 GMT</pubDate></item><item><title><![CDATA[2. After Midsem LA2]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 2/Linear Algebra II/1. Lecture Notes/2. After Midsem LA2.html</link><guid isPermaLink="false">Sem 2/Linear Algebra II/1. Lecture Notes/2. After Midsem LA2.md</guid><pubDate>Mon, 29 Apr 2024 16:49:47 GMT</pubDate></item><item><title><![CDATA[Question 1:]]></title><description><![CDATA[ 
+ <br><br>A continuous Random Vector  has a joint probability density function given by<br>
+if 0&lt; y &lt; 1 and x &gt; y.<br><br>Are X and Y independent? Please Justify your answer.<br><br>Calculate the conditional probability density functions of X given Y and Y given X.<br><br><br>To determine if  or  are independent, we need to check if the joint probability density function  can be expressed as the product of the marginal probability density functions  and  .<br>Let's calculate the marginal probability density functions:<br>After performing the integrations, we find:<br>
+Now if  and  are independent, then  However in this case,<br>
+indicating that  and  are not independent.<br><br>To calculate the conditional probability density functions, we'll use the formula:<br>
+Now let's calculate ]]></description><link>Sem 2/Probability II/2. Previous Year/Probability Finals 2023.html</link><guid isPermaLink="false">Sem 2/Probability II/2. Previous Year/Probability Finals 2023.md</guid><pubDate>Sun, 28 Apr 2024 15:14:59 GMT</pubDate></item><item><title><![CDATA[Probability Finals 2024]]></title><description><![CDATA[ 
  
   
   
@@ -115,20 +39,7 @@ This is an inline footnote.
     
     
   
-  ]]></description><link>Excalidraw/Drawing 2024-04-27 01.47.35.excalidraw.html</link><guid isPermaLink="false">Excalidraw/Drawing 2024-04-27 01.47.35.excalidraw.md</guid><pubDate>Fri, 26 Apr 2024 20:17:35 GMT</pubDate></item><item><title><![CDATA[Drawing 2024-04-27 16.18.25]]></title><description><![CDATA[ 
- 
-  
-  
-  
-    
-    
-  
-  ]]></description><link>Excalidraw/Drawing 2024-04-27 16.18.25.excalidraw.html</link><guid isPermaLink="false">Excalidraw/Drawing 2024-04-27 16.18.25.excalidraw.md</guid><pubDate>Sat, 27 Apr 2024 10:48:41 GMT</pubDate></item><item><title><![CDATA[Drawing 2024-04-28 20.57.34]]></title><description><![CDATA[ 
- 
-  
-  
-  
-    
-    
-  
-  ]]></description><link>Excalidraw/Drawing 2024-04-28 20.57.34.excalidraw.html</link><guid isPermaLink="false">Excalidraw/Drawing 2024-04-28 20.57.34.excalidraw.md</guid><pubDate>Mon, 29 Apr 2024 15:30:37 GMT</pubDate></item></channel></rss>
+  ]]></description><link>Sem 2/Probability II/2. Previous Year/Probability Finals 2024.html</link><guid isPermaLink="false">Sem 2/Probability II/2. Previous Year/Probability Finals 2024.md</guid><pubDate>Mon, 29 Apr 2024 16:40:25 GMT</pubDate></item><item><title><![CDATA[What is this]]></title><description><![CDATA[ 
+ <br><br>This is a lecture <br>A sample file, i have not written notes yet<br>However how was the Lecture1????<br>😀]]></description><link>Sem 3/Analysis of Several Variables/1. Lecture Notes/Lecture 1.html</link><guid isPermaLink="false">Sem 3/Analysis of Several Variables/1. Lecture Notes/Lecture 1.md</guid><pubDate>Mon, 29 Apr 2024 16:37:33 GMT</pubDate></item><item><title><![CDATA[what is this going on???]]></title><description><![CDATA[ 
+ <br>]]></description><link>Sem 3/Analysis of Several Variables/1. Lecture Notes/Lecture 2.html</link><guid isPermaLink="false">Sem 3/Analysis of Several Variables/1. Lecture Notes/Lecture 2.md</guid><pubDate>Sun, 28 Apr 2024 17:54:49 GMT</pubDate></item><item><title><![CDATA[Notes of Semester 3, B.Math 2023-2026 Batch at ISI Bangalore]]></title><description><![CDATA[ 
+ <br><br>Notes of B.Math batch , Semester 3rd. At none other than ISI Bangalore.<br><br><br> Let's GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!!!!!!!!!!!1]]></description><link>B.Math 2023-2026 Notes.html</link><guid isPermaLink="false">B.Math 2023-2026 Notes.md</guid><pubDate>Mon, 29 Apr 2024 17:05:40 GMT</pubDate></item></channel></rss>
