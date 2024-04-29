@@ -11,12 +11,17 @@ By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 # Contribution:
 Want to Contribute Lecture Notes/ Assignment Solutions/ Previous Year Paper Solutions? Or Have any issue with the website/ any sort of discussions?
 It might actually be Helpful.
+You will be mentioned in the Notes/Solutions in the website for your contributions. The upcoming Generation will see your name there
 Go to [Discussions](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions) 
 - For Contributing Lecture Notes/ Assignment Solutions/ Previous Year Paper Solutions, give them in [Contribute Material](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions/categories/contribute-material) Category.
 - If you have a issue with the website, Or any question related to Website/ Content in the website Or Even any Suggestions, discuss in [Discuss](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions/categories/discuss) Category.
 
-### How to Contribute Notes/Solutions?
-- Use [Obsidian](https://obsidian.md/) to create the Notes or write up the Solutions and then Share the Markdown File in The Discussions! You will be Mentioned for your contribution in the website notes/solutions.
+# How to Contribute?
+How to Share the Notes/Solutions? You cannot just type the solution out on github 🍭.
+
+- Use [Obsidian](https://obsidian.md/) to create the Notes or write up the Solutions
+- then Share the Markdown File from the App The Discussions!
+- You will be Mentioned for your contribution in the website notes/solutions.
 Installing Obsidian:
 [Android](https://play.google.com/store/apps/details?id=md.obsidian)
 [Windows/ Mac/ Linux](https://obsidian.md/)
