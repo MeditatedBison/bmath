@@ -7,7 +7,10 @@ By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 [B.Math 2023-2026 Notes](https://meditatedbison.github.io/B.Math-2023-2026-Notes/)
 
 
-### Want to Contribute Lecture Notes/ Assignment Solutions/ Previous Year Paper Solutions? Or Have any issue with the website/ any sort of discussions?
+
+# Contribution:
+Want to Contribute Lecture Notes/ Assignment Solutions/ Previous Year Paper Solutions? Or Have any issue with the website/ any sort of discussions?
+It might actually be Helpful.
 Go to [Discussions](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions) 
 - For Contributing Lecture Notes/ Assignment Solutions/ Previous Year Paper Solutions, give them in [Contribute Material](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions/categories/contribute-material) Category.
 - If you have a issue with the website, Or any question related to Website/ Content in the website Or Even any Suggestions, discuss in [Discuss](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions/categories/discuss) Category.
@@ -20,11 +23,11 @@ Installing Obsidian:
 [iOS](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442)
 
 
-### Some Notes not available
+# Some Notes not available
 - Sem 1, 2 is empty for now because i Initiated this project Just before Start of Semester 3!
 - And Sem 3, 4, 5, 6 notes will be there by the timeline given below...
   
-### Timeline of Semesters (Approximate)
+## Timeline of Semesters (Approximate)
 Some timelines are an estimation (Approximation), because the course is not over yet, And the timeline for upcoming semesters is Unknown.
 - Sem 1 (Aug 2023 - Nov 2023)
 - Sem 2 (Jan 2024 - Apr 2024)
