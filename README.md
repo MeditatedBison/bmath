@@ -9,12 +9,11 @@ By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 
 
 
-# Some Notes not available
-(Also See Contribution Section below.)
+# Some Notes not available!
 - Sem 1, 2 is empty for now because i Initiated this project Just before Start of Semester 3!
 - And Sem 3, 4, 5, 6 notes will be there by the timeline given below...
   
-## Timeline of Semesters (Approximate)
+# Timeline of Semesters (Approximate)
 Some timelines are an estimation (Approximation), because the course is not over yet, And the timeline for upcoming semesters is Unknown.
 - Sem 1 (Aug 2023 - Nov 2023)
 - Sem 2 (Jan 2024 - Apr 2024)
@@ -23,23 +22,27 @@ Some timelines are an estimation (Approximation), because the course is not over
 - Sem 5 (Aug 2025 - Nov 2025) (Approx.)
 - Sem 6 (Jan 2026 - Apr 2026) (Approx.)
 
-
-
 # Contribution:
 Want to Contribute Lecture Notes/ Assignment Solutions/ Previous Year Paper Solutions? Or Have any issue with the website/ any sort of discussions? <br />
-It might actually be Helpful. <br />
-You will be mentioned in the Notes/Solutions in the website for your contributions. The upcoming Generation will see your name there <br />
+ 
 Go to [Discussions](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions) 
 - For Contributing Lecture Notes/ Assignment Solutions/ Previous Year Paper Solutions, give them in [Contribute Material](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions/categories/contribute-material) Category.
 - If you have a issue with the website, Or any question related to Website/ Content in the website Or Even any Suggestions, discuss in [Discuss](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions/categories/discuss) Category.
 
+You will be mentioned for your work.
+The upcoming Generation will see your name with the solution/notes.
+
 # How to Contribute?
-How to Share the Notes/Solutions? You cannot just type the solution out on github 🍭.
+I suggest you to use Obsidian, 
+however you can type the whole Lecture, Solution in Markdown on github Discussion itself.  
+But writing pages of lectures or solutions on github itself, may mess up the place.
 
 - Use [Obsidian](https://obsidian.md/) to create the Notes or write up the Solutions
-- then Share the Markdown File from the App The Discussions!
+- then Share the Markdown File or Copy-Paste the Markdown Code (But why would you choose that instead of just sharing the file?)
 - You will be Mentioned for your contribution in the website notes/solutions.
+
 Installing Obsidian:
 - [Android](https://play.google.com/store/apps/details?id=md.obsidian)
 - [Windows/ Mac/ Linux](https://obsidian.md/)
 - [iOS](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442)
+
