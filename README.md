@@ -9,9 +9,9 @@ By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 
 
 # Contribution:
-Want to Contribute Lecture Notes/ Assignment Solutions/ Previous Year Paper Solutions? Or Have any issue with the website/ any sort of discussions?
-It might actually be Helpful.
-You will be mentioned in the Notes/Solutions in the website for your contributions. The upcoming Generation will see your name there
+Want to Contribute Lecture Notes/ Assignment Solutions/ Previous Year Paper Solutions? Or Have any issue with the website/ any sort of discussions? <br />
+It might actually be Helpful. <br />
+You will be mentioned in the Notes/Solutions in the website for your contributions. The upcoming Generation will see your name there <br />
 Go to [Discussions](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions) 
 - For Contributing Lecture Notes/ Assignment Solutions/ Previous Year Paper Solutions, give them in [Contribute Material](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions/categories/contribute-material) Category.
 - If you have a issue with the website, Or any question related to Website/ Content in the website Or Even any Suggestions, discuss in [Discuss](https://github.com/MeditatedBison/B.Math-2023-2026-Notes/discussions/categories/discuss) Category.
