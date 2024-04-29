@@ -1,6 +1,6 @@
 
 
-#### Notes of Semester 3, B.Math 2023-2026 Batch at ISI Bangalore
+## B.Math 2023-2026 Batch at ISI Bangalore
 By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 
 
