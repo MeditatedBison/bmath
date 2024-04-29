@@ -16,4 +16,4 @@ By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 
 - Access contents of Data of the Active File from the Right Column
 
-- Enable Dark Mode/Light Mode from top of Left Column 😉
+- Enable Dark Mode/Light Mode from top of Left Column 
