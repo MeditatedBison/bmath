@@ -1,6 +1,6 @@
 
 
-## B.Math 2023-2026 Batch at ISI Bangalore
+## All Content of B.Math 2023-2026 Batch at ISI Bangalore
 By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 
 
