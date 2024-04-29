@@ -38,7 +38,7 @@ however you can type the whole Lecture, Solution in Markdown on github Discussio
 But writing pages of lectures or solutions on github itself, may mess up the place.
 
 - Use [Obsidian](https://obsidian.md/) to create the Notes or write up the Solutions
-- then Share the Markdown File or Copy-Paste the Markdown Code (But why would you choose that instead of just sharing the file?)
+- then Share the Markdown File on Github Discussions.
 - You will be Mentioned for your contribution in the website notes/solutions.
 
 Installing Obsidian:
