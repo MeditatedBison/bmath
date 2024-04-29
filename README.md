@@ -1,11 +1,12 @@
 
 
 #### Notes of Semester 3, B.Math 2023-2026 Batch at ISI Bangalore
-# By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
+By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 
-Access the Notes : [B.Math 2023-2026 Notes ISI Bangalore](https://meditatedbison.github.io/B.Math-2023-2026-Notes/)
 
-## ACCESS THE NOTES FROM THE LEFT....!!!
+# How to use the website?
+- Access the Files (Lectures, Assignments, Previous Year Papers) From the Left Column
 
-## And access contents of a file from the RIGHT!!!!!
+- Access contents of Data of the Active File from the Right Column
 
+- Enable Dark Mode/Light Mode from top of Left Column 😉
