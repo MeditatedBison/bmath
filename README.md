@@ -23,9 +23,9 @@ How to Share the Notes/Solutions? You cannot just type the solution out on githu
 - then Share the Markdown File from the App The Discussions!
 - You will be Mentioned for your contribution in the website notes/solutions.
 Installing Obsidian:
-[Android](https://play.google.com/store/apps/details?id=md.obsidian)
-[Windows/ Mac/ Linux](https://obsidian.md/)
-[iOS](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442)
+- [Android](https://play.google.com/store/apps/details?id=md.obsidian)
+- [Windows/ Mac/ Linux](https://obsidian.md/)
+- [iOS](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442)
 
 
 # Some Notes not available
