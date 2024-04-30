@@ -8,7 +8,7 @@ By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 
 
 # Some Notes not opening!(For Android/ iOS)
-On Android/ iOS devices, If you try to open some Notes like [[1. Before Midsem Prob 2 Notes by AKSHAT MISHRA.pdf]](those which are in pdf format), you may get an error that `The plugin is not supported` . 
+On Android/ iOS devices, If you try to open some Notes (those which are in pdf format), you may get an error that `The plugin is not supported` . 
 
 The ***Solution*** For this is 
 - Open that note page. (you will be unable to see the pdf)
