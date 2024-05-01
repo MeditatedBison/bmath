@@ -7,11 +7,15 @@ By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 [B.Math 2023-2026 Notes](https://meditatedbison.github.io/B.Math-2023-2026-Notes/)
 
 
+# Some Notes not opening!(For Android/ iOS)
+On Android/ iOS devices, If you try to open some Notes (those which are in pdf format), you may get an error that `The plugin is not supported` . 
 
-
-# Some Notes not available!
-- Sem 1, 2 is empty for now because i Initiated this project Just before Start of Semester 3!
-- And Sem 3, 4, 5, 6 notes will be there by the timeline given below...
+The ***Solution*** For this is 
+- Open that note page. (you will be unable to see the pdf)
+- Copy the link from the address bar of your browser.
+- Paste the link in the browser. 
+- You will get a popup of ***Download***. 
+- Enjoy The downloaded Notes...
   
 # Timeline of Semesters (Approximate)
 Some timelines are an estimation (Approximation), because the course is not over yet, And the timeline for upcoming semesters is Unknown.
