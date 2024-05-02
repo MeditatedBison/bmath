@@ -10,7 +10,7 @@ By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 - B.Math Course Lecture Notes & Assignments
 
 
-# SOLUTION to "pdf notes not opening"(For Android/ iOS)
+# "pdf notes not opening"(For Android/ iOS)(!FIX)
 Just copy that link, and open again in the browser, The pdf will download.
 
 # Lecture Notes Contribution
