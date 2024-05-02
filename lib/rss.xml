@@ -1,0 +1,76 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[B.Math]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>B.Math</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 02 May 2024 20:46:18 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 02 May 2024 20:46:15 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Lecture 1]]></title><description><![CDATA[ 
+ <br>Hello.111]]></description><link>Sem 1/Elementary Number Theory/Lecture Notes/Lecture 1.html</link><guid isPermaLink="false">Sem 1/Elementary Number Theory/Lecture Notes/Lecture 1.md</guid><pubDate>Mon, 29 Apr 2024 17:18:04 GMT</pubDate></item><item><title><![CDATA[Lecture 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 1/Fundamentals of Computing and Programming/Class Material/Lecture 1.html</link><guid isPermaLink="false">Sem 1/Fundamentals of Computing and Programming/Class Material/Lecture 1.md</guid><pubDate>Mon, 29 Apr 2024 17:18:09 GMT</pubDate></item><item><title><![CDATA[Class test 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 1/Linear Algebra I/Class Tests/Class test 1.html</link><guid isPermaLink="false">Sem 1/Linear Algebra I/Class Tests/Class test 1.md</guid><pubDate>Mon, 29 Apr 2024 17:18:18 GMT</pubDate></item><item><title><![CDATA[1. Before Midsem LA1 Notes]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 1/Linear Algebra I/Lecture Notes/1. Before Midsem LA1 Notes.html</link><guid isPermaLink="false">Sem 1/Linear Algebra I/Lecture Notes/1. Before Midsem LA1 Notes.md</guid><pubDate>Mon, 29 Apr 2024 17:18:15 GMT</pubDate></item><item><title><![CDATA[1. Before Midsem Prob 1 Notes]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 1/Probability I/Lecture Notes/1. Before Midsem Prob 1 Notes.html</link><guid isPermaLink="false">Sem 1/Probability I/Lecture Notes/1. Before Midsem Prob 1 Notes.md</guid><pubDate>Mon, 29 Apr 2024 17:18:30 GMT</pubDate></item><item><title><![CDATA[Lecture 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 1/Real Analysis I/Lecture Notes/Lecture 1.html</link><guid isPermaLink="false">Sem 1/Real Analysis I/Lecture Notes/Lecture 1.md</guid><pubDate>Mon, 29 Apr 2024 17:18:35 GMT</pubDate></item><item><title><![CDATA[Homework 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 2/Introduction to Statistics and Computation with Data/Assignments/Homework 1.html</link><guid isPermaLink="false">Sem 2/Introduction to Statistics and Computation with Data/Assignments/Homework 1.md</guid><pubDate>Mon, 29 Apr 2024 17:18:49 GMT</pubDate></item><item><title><![CDATA[Quiz 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 2/Introduction to Statistics and Computation with Data/Class Tests/Quiz 1.html</link><guid isPermaLink="false">Sem 2/Introduction to Statistics and Computation with Data/Class Tests/Quiz 1.md</guid><pubDate>Mon, 29 Apr 2024 17:18:54 GMT</pubDate></item><item><title><![CDATA[Lecture 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 2/Introduction to Statistics and Computation with Data/Lecture Notes/Lecture 1.html</link><guid isPermaLink="false">Sem 2/Introduction to Statistics and Computation with Data/Lecture Notes/Lecture 1.md</guid><pubDate>Mon, 29 Apr 2024 17:18:43 GMT</pubDate></item><item><title><![CDATA[Syllabus per week]]></title><description><![CDATA[ 
+ <br>Week 5<br>
+Method of moments, Maximum Likelihood Estimate<br>Week 8<br>
+Empirical distribution, sample variance, sample proportion, sampling observations<br>Week 9<br>
+Empirical distribution function, Variance Reduction,<br>
+Chi squared distribution, it's relation<br>
+tn distribution, generating it.<br>
+Normal plot, t plot, normal vs t plot,<br>
+Markov Inequality, Tschebyshev Inequality<br>
+Weak law of large numbers, law of large numbers, strong law of large numbers<br>
+Central Limit Theorem<br>
+Plotting<br>
+Role of n vs p<br>Week 10<br>
+Weak law of large numbers, Strong law of large numbers<br>
+Point estimate: Method of moments estimate, Maximum likelihood estimate<br>
+Confidence Intervals<br>
+Empirical data<br>
+Pivotal Quantity, Pivotal quantityu exponential<br>
+Central limit theorem<br>Week 11<br>
+Testing of Hypothesis<br>Week 11A<br>
+Test for Sample mean when sigma is known<br>
+Chi square - Goodness of fit test<br>
+Chi square - Test of independence]]></description><link>Sem 2/Introduction to Statistics and Computation with Data/Syllabus per week.html</link><guid isPermaLink="false">Sem 2/Introduction to Statistics and Computation with Data/Syllabus per week.md</guid><pubDate>Tue, 23 Apr 2024 20:38:05 GMT</pubDate></item><item><title><![CDATA[Class Test 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 2/Linear Algebra II/Class Tests/Class Test 1.html</link><guid isPermaLink="false">Sem 2/Linear Algebra II/Class Tests/Class Test 1.md</guid><pubDate>Mon, 29 Apr 2024 17:19:01 GMT</pubDate></item><item><title><![CDATA[Assignment 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 2/Numerical Computing/Assignments/Assignment 1.html</link><guid isPermaLink="false">Sem 2/Numerical Computing/Assignments/Assignment 1.md</guid><pubDate>Mon, 29 Apr 2024 17:19:16 GMT</pubDate></item><item><title><![CDATA[1. Before Midsem NC Notes]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 2/Numerical Computing/Lecture Notes/1. Before Midsem NC Notes.html</link><guid isPermaLink="false">Sem 2/Numerical Computing/Lecture Notes/1. Before Midsem NC Notes.md</guid><pubDate>Mon, 29 Apr 2024 17:19:11 GMT</pubDate></item><item><title><![CDATA[Question 1:]]></title><description><![CDATA[ 
+ <br><br>A continuous Random Vector  has a joint probability density function given by<br>
+if 0&lt; y &lt; 1 and x &gt; y.<br><br>Are X and Y independent? Please Justify your answer.<br><br>Calculate the conditional probability density functions of X given Y and Y given X.<br><br><br>To determine if  or  are independent, we need to check if the joint probability density function  can be expressed as the product of the marginal probability density functions  and  .<br>Let's calculate the marginal probability density functions:<br>After performing the integrations, we find:<br>
+Now if  and  are independent, then  However in this case,<br>
+indicating that  and  are not independent.<br><br>To calculate the conditional probability density functions, we'll use the formula:<br>
+Now let's calculate ]]></description><link>Sem 2/Probability II/Previous Year/Probability Finals 2023.html</link><guid isPermaLink="false">Sem 2/Probability II/Previous Year/Probability Finals 2023.md</guid><pubDate>Sun, 28 Apr 2024 15:14:59 GMT</pubDate></item><item><title><![CDATA[Probability Finals 2024]]></title><description><![CDATA[ 
+ 
+  
+  
+  
+    
+    
+  
+  ]]></description><link>Sem 2/Probability II/Previous Year/Probability Finals 2024.html</link><guid isPermaLink="false">Sem 2/Probability II/Previous Year/Probability Finals 2024.md</guid><pubDate>Mon, 29 Apr 2024 16:40:25 GMT</pubDate></item><item><title><![CDATA[Assignment 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 2/Real Analysis II/Assignments/Assignment 1.html</link><guid isPermaLink="false">Sem 2/Real Analysis II/Assignments/Assignment 1.md</guid><pubDate>Mon, 29 Apr 2024 17:19:36 GMT</pubDate></item><item><title><![CDATA[Assignment 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 3/Analysis of Several Variables/Assignments/Assignment 1.html</link><guid isPermaLink="false">Sem 3/Analysis of Several Variables/Assignments/Assignment 1.md</guid><pubDate>Mon, 29 Apr 2024 17:19:43 GMT</pubDate></item><item><title><![CDATA[What is this]]></title><description><![CDATA[ 
+ <br><br>This is a lecture <br>A sample file, i have not written notes yet<br>However how was the Lecture1????<br>😀]]></description><link>Sem 3/Analysis of Several Variables/Lecture Notes/Lecture 1.html</link><guid isPermaLink="false">Sem 3/Analysis of Several Variables/Lecture Notes/Lecture 1.md</guid><pubDate>Mon, 29 Apr 2024 16:37:33 GMT</pubDate></item><item><title><![CDATA[what is this going on???]]></title><description><![CDATA[ 
+ <br>]]></description><link>Sem 3/Analysis of Several Variables/Lecture Notes/Lecture 2.html</link><guid isPermaLink="false">Sem 3/Analysis of Several Variables/Lecture Notes/Lecture 2.md</guid><pubDate>Sun, 28 Apr 2024 17:54:49 GMT</pubDate></item><item><title><![CDATA[Assignment 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 3/Classical Mechanics/Assignments/Assignment 1.html</link><guid isPermaLink="false">Sem 3/Classical Mechanics/Assignments/Assignment 1.md</guid><pubDate>Mon, 29 Apr 2024 17:19:53 GMT</pubDate></item><item><title><![CDATA[Lecture 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 3/Classical Mechanics/Lecture Notes/Lecture 1.html</link><guid isPermaLink="false">Sem 3/Classical Mechanics/Lecture Notes/Lecture 1.md</guid><pubDate>Mon, 29 Apr 2024 17:19:49 GMT</pubDate></item><item><title><![CDATA[Assignmet 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 3/Discrete Mathematics 1/Assignments/Assignmet 1.html</link><guid isPermaLink="false">Sem 3/Discrete Mathematics 1/Assignments/Assignmet 1.md</guid><pubDate>Mon, 29 Apr 2024 17:20:03 GMT</pubDate></item><item><title><![CDATA[Lecture 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 3/Discrete Mathematics 1/Lecture Notes/Lecture 1.html</link><guid isPermaLink="false">Sem 3/Discrete Mathematics 1/Lecture Notes/Lecture 1.md</guid><pubDate>Mon, 29 Apr 2024 17:19:58 GMT</pubDate></item><item><title><![CDATA[Assignment 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 3/Group Theory/Assignments/Assignment 1.html</link><guid isPermaLink="false">Sem 3/Group Theory/Assignments/Assignment 1.md</guid><pubDate>Mon, 29 Apr 2024 17:20:15 GMT</pubDate></item><item><title><![CDATA[Lecture 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 3/Group Theory/Lecture Notes/Lecture 1.html</link><guid isPermaLink="false">Sem 3/Group Theory/Lecture Notes/Lecture 1.md</guid><pubDate>Mon, 29 Apr 2024 17:20:10 GMT</pubDate></item><item><title><![CDATA[Assignment 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 3/Intro to Statistical Inference/Assignments/Assignment 1.html</link><guid isPermaLink="false">Sem 3/Intro to Statistical Inference/Assignments/Assignment 1.md</guid><pubDate>Mon, 29 Apr 2024 17:20:27 GMT</pubDate></item><item><title><![CDATA[Lecture 1]]></title><description><![CDATA[ 
+ ]]></description><link>Sem 3/Intro to Statistical Inference/Lecture Notes/Lecture 1.html</link><guid isPermaLink="false">Sem 3/Intro to Statistical Inference/Lecture Notes/Lecture 1.md</guid><pubDate>Mon, 29 Apr 2024 17:20:22 GMT</pubDate></item><item><title><![CDATA[Semester 1]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>BMath Exam Schedule.html</link><guid isPermaLink="false">BMath Exam Schedule.md</guid><pubDate>Thu, 02 May 2024 20:45:51 GMT</pubDate></item><item><title><![CDATA[Semester 1 (Year 1)]]></title><description><![CDATA[ 
+ <br>Refer <a rel="noopener" class="external-link" href="https://www.isibang.ac.in/~adean/infsys/cal/time.html" target="_blank">https://www.isibang.ac.in/~adean/infsys/cal/time.html</a> for more details<br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>BMath Time Table.html</link><guid isPermaLink="false">BMath Time Table.md</guid><pubDate>Thu, 02 May 2024 20:31:51 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br><br>By <a data-tooltip-position="top" aria-label="https://meditatedbison.github.io/MyPortfolio/" rel="noopener" class="external-link" href="https://meditatedbison.github.io/MyPortfolio/" target="_blank">Sarvesh Soni</a><br><br>On Android/ iOS devices, If you try to open some Notes like <a data-href="1. Before Midsem Prob 2 Notes by AKSHAT MISHRA.pdf" href="Sem 2/Probability II/Lecture Notes/1. Before Midsem Prob 2 Notes by AKSHAT MISHRA.pdf" class="internal-link" target="_self" rel="noopener">1. Before Midsem Prob 2 Notes by AKSHAT MISHRA.pdf</a>(those which are in pdf format), you may get an error that The plugin is not supported . <br>The Solution For this is <br>
+<br>Open that note page. (you will be unable to see the pdf)
+<br>Copy the link from the address bar of your browser.
+<br>Paste the link in the browser. 
+<br>You will get a popup of Download. 
+<br>Enjoy The downloaded Notes...
+<br><br>Some timelines are an estimation (Approximation), because the course is not over yet, And the timeline for upcoming semesters is Unknown.<br>
+<br>Sem 1 (Aug 2023 - Nov 2023)
+<br>Sem 2 (Jan 2024 - Apr 2024)
+<br>Sem 3 (Aug 2024 - Nov 2024) (Approx.)
+<br>Sem 4 (Jan 2025 - Apr 2025) (Approx.)
+<br>Sem 5 (Aug 2025 - Nov 2025) (Approx.)
+<br>Sem 6 (Jan 2026 - Apr 2026) (Approx.)
+]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 30 Apr 2024 12:13:49 GMT</pubDate></item></channel></rss>
