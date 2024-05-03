@@ -2,7 +2,7 @@
 By [Sarvesh Soni](https://meditatedbison.github.io/MyPortfolio/)
 
 # Access the WEBSITE :
-[B.Math 2023-2026 Notes](https://meditatedbison.github.io/B.Math-2023-2026-Notes/)
+[B.Math](https://meditatedbison.github.io/bmath)
 
 # What the Website Contains?
 - BMath Time Table
